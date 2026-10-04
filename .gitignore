@@ -1,0 +1,6 @@
+# Ignore heavy model weights and databases
+ollama_models/
+openwebui_data/
+env/
+__pycache__/
+*.log
